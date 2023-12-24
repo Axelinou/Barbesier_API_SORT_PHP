@@ -2,7 +2,7 @@
 * 1er etape : deplacer le dossier `TestApi` dans `c:/wamp64/www/`
 * 2eme etape : deplacer le dossier `Credentials` dans  `c:/wamp64/`
 * 3eme etape : créer un utilisateur ayant le meme nom d'utilisateur et mot de passe que dans le fichier `private.json` (se situe dans le dossier Credentials) dans PHPmyadmin
-* 4eme etape : importer la base de données  dans phpmyadmin (en créant la table au préalable avec le nom "**apisort**")
+* 4eme etape : importer la base de données portant le nom de `apisort.sql` dans phpmyadmin (en créant la table au préalable avec le nom "**apisort**")
 ## Merci de respecter ces etapes pour le bon fonctionnement de l'api
 
 
