@@ -12,7 +12,7 @@ et qu'en sortie, il nous revoie le tableau trié.
 
 
 # Infos utiles 
-* Un exemple de comment se construit la requete. -> `localhost/TestApi/?type=QuickSort&get=[10,4,5,6,1]`
+* Un exemple de comment se construit la requete. -> `localhost/TestApi/MonEndpoint/?type=InsertSort&get=[106,4,5,666,1]`
 * Vous definissez en premier argument le type de tri avec "type" , (vous disposez de QuickSort et InsertSort).
 * Puis avec "get" vous definissez votre tableau en respectant bien les "[ , , , ]".
 
